@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@ip-algorithmics/codeforces-io": "^1.1.2",
+    "nodemon": "^2.0.16"
+  }
+}
